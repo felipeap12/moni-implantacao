@@ -1,0 +1,8 @@
+node_modules/
+dist/
+__pycache__/
+.venv/
+*.db
+backups/
+.secret_key
+.pytest_cache/

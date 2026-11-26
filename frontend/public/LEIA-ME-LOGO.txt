@@ -1,0 +1,5 @@
+Coloque aqui o arquivo da logo da Moni com o nome:  logo-moni.png
+(PNG com fundo transparente ou branco, de preferência com 400 px de largura ou mais.)
+
+Depois execute atualizar-frontend.bat (ou "npm run build" na pasta frontend) e reinicie o sistema.
+Enquanto o arquivo não existir, o sistema mostra um ícone no lugar da logo.
